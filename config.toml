@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "South End Neighbors For Good"
+theme = "terrassa"
+
+[params.hero]
+    textColor = "white" # Empty for default color
+
+[params.cta] # Call To Action 
+    show = true
+    cta = "Get Involved"  # Text message of the CTA
+    link = "volunteer" # Relative URL
