@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>South End Neighbors For Good</title>
-    <link>yethon.github.io/south-end/</link>
+    <link>/</link>
     <description>Recent content on South End Neighbors For Good</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="yethon.github.io/south-end/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Simple Values</title>
-      <link>yethon.github.io/south-end/sections/simple-values/</link>
+      <link>/sections/simple-values/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yethon.github.io/south-end/sections/simple-values/</guid>
+      <guid>/sections/simple-values/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>yethon.github.io/south-end/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yethon.github.io/south-end/about/</guid>
+      <guid>/about/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mollis nunc sed id semper risus in hendrerit. Tortor consequat id porta nibh venenatis cras. Tincidunt augue interdum velit euismod in. Vulputate enim nulla aliquet porttitor lacus. Et magnis dis parturient montes nascetur ridiculus mus. A scelerisque purus semper eget duis at tellus at. Orci ac auctor augue mauris. Ornare suspendisse sed nisi lacus sed viverra tellus.</description>
     </item>
     
     <item>
       <title>Simple Choices</title>
-      <link>yethon.github.io/south-end/sections/simple-choices/</link>
+      <link>/sections/simple-choices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yethon.github.io/south-end/sections/simple-choices/</guid>
+      <guid>/sections/simple-choices/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
     <item>
       <title>Simple People</title>
-      <link>yethon.github.io/south-end/sections/simple-people/</link>
+      <link>/sections/simple-people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yethon.github.io/south-end/sections/simple-people/</guid>
+      <guid>/sections/simple-people/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Volunteer</title>
-      <link>yethon.github.io/south-end/volunteer/</link>
+      <link>/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yethon.github.io/south-end/volunteer/</guid>
+      <guid>/volunteer/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mollis nunc sed id semper risus in hendrerit. Tortor consequat id porta nibh venenatis cras. Tincidunt augue interdum velit euismod in. Vulputate enim nulla aliquet porttitor lacus. Et magnis dis parturient montes nascetur ridiculus mus. A scelerisque purus semper eget duis at tellus at. Orci ac auctor augue mauris. Ornare suspendisse sed nisi lacus sed viverra tellus.</description>
     </item>
     
     <item>
       <title>Simple</title>
-      <link>yethon.github.io/south-end/sections/simple/</link>
+      <link>/sections/simple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>yethon.github.io/south-end/sections/simple/</guid>
+      <guid>/sections/simple/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

@@ -3,51 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>yethon.github.io/south-end/sections/simple-values/</loc>
+    <loc>/sections/simple-values/</loc>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/sections/simple-choices/</loc>
+    <loc>/sections/simple-choices/</loc>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/sections/simple-people/</loc>
+    <loc>/sections/simple-people/</loc>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/volunteer/</loc>
+    <loc>/volunteer/</loc>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/sections/simple/</loc>
+    <loc>/sections/simple/</loc>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/sections/</loc>
+    <loc>/sections/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>yethon.github.io/south-end/tags/lorem-ipsum/</loc>
+    <loc>/tags/lorem-ipsum/</loc>
     <priority>0</priority>
   </url>
   
