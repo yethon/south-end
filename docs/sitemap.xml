@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yethon.github.io/south-end/</loc>
+  </url>
+  
+  <url>
     <loc>https://yethon.github.io/south-end/sections/simple-values/</loc>
   </url>
   
@@ -33,11 +37,6 @@
   
   <url>
     <loc>https://yethon.github.io/south-end/sections/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yethon.github.io/south-end/</loc>
     <priority>0</priority>
   </url>
   

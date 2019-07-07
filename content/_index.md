@@ -2,7 +2,7 @@
 title: "Home"
 description: "South End Neighbors For Good"
 images: ["tree.jpg"]
-draft: true
+draft: false
 menu: main
 weight: 1
 ---

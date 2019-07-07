@@ -4,6 +4,7 @@ title = "South End Neighbors For Good"
 theme = "terrassa"
 
 publishDir = "docs"
+staticDir = ["static"]
 
 [params.hero]
     textColor = "white" # Empty for default color
