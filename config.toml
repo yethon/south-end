@@ -1,12 +1,14 @@
-baseURL = "http://example.org/"
+baseURL = "yethon.github.io/south-end"
 languageCode = "en-us"
 title = "South End Neighbors For Good"
 theme = "terrassa"
 
+publishDir = "docs"
+
 [params.hero]
     textColor = "white" # Empty for default color
 
-[params.cta] # Call To Action 
+[params.cta] # Call To Action
     show = true
     cta = "Get Involved"  # Text message of the CTA
     link = "volunteer" # Relative URL

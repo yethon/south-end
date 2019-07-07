@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>yethon.github.io/south-end/sections/simple-values/</loc>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/about/</loc>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/sections/simple-choices/</loc>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/sections/simple-people/</loc>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/volunteer/</loc>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/sections/simple/</loc>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/sections/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>yethon.github.io/south-end/tags/lorem-ipsum/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
