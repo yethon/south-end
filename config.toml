@@ -1,4 +1,4 @@
-baseURL = "/south-end"
+baseURL = "https://yethon.github.io/south-end/"
 languageCode = "en-us"
 title = "South End Neighbors For Good"
 theme = "terrassa"
